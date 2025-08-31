@@ -2,12 +2,12 @@
 
 Over 30 years of strategic leadership experience executing enterprise ready web initiatives. Established history mentoring, coaching, and nurturing high-performance cultures. Adept at leveraging emerging technologies, fostering innovation, and guiding organizations through complex digital transformations, regulatory compliance, and operational excellence.
 
-> Currently applying Artificial Intelligence, AI Process Automation, AI Driven DevSecOps, Predictive Analytics, Agentic Workflows, and RAG (Retrieval-Augmented Generation) applied in Mobile Healthcare Services.
+_Currently applying Artificial Intelligence, AI Process Automation, AI Driven DevSecOps, Predictive Analytics, Agentic Workflows, and RAG (Retrieval-Augmented Generation) applied in Mobile Healthcare Services._
 
 ### [Key Achievements](#key-achievements)
 
-|Date     | Description |
-|---------|-------------|
+| Date | Description |
+| :--- | :---        |
 |2025 | Spearheaded the strategic transformation to SaaS AI-first company, delivering a zero-framework web platform on AWS cloud-native computing with Agentic, Predictive, and Generative AI —powering a next-generation Mobile Medical Service for Clinical Providers.|
 |2022 | Built with FAST, Proteus is an advanced web-based hardware and software emulation and prototyping system to assist various hardware and software design and engineering organizations with co-creating end-to-end user scenarios spanning several product suites, including Windows, Office, Edge, etc.|
 |2019 | Co-Founded Microsoft [Open-Source](https://github.com/microsoft/fast) [FAST](https://fast.design/) to ~6,500 with over ~100 contributors used as the front-end user experiences across Microsoft Edge, News, Bing, Visual Studio Code, and Office delivering near vanilla JavaScript performance as a zero-framework architecture. User Experiences built with FAST adapt to your design system and can be used with any modern UI Framework, or none at all, by leveraging industry-standard Web Components including best-in-class performance and accessibility.|
