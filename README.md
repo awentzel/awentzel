@@ -29,7 +29,8 @@ _Currently applying Artificial Intelligence, AI Process Automation, AI Driven De
 * Principal Software Engineering Leader - Microsoft Corporation (2010 -  2022)
 
 ### [Education](#education)
-* EMBA, Executive Master of Business Administration (2021)
+* Executive MBA, Executive Master of Business Administration (2021)
+* Advisory Board Member, Management, Information Systems, and Entrepreneurship, Washington State University (2018)
 * BBA, Bachelor of Business Administration, Management Information Systems (1998)
 
 
