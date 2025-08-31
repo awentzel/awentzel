@@ -23,14 +23,14 @@ _Currently applying Artificial Intelligence, AI Process Automation, AI Driven De
 |2001 | Contracted by Microsoft, leading Developer Operations for pre-release of .NET, Web Development on www.gotdotnet.com, beta.visualstudio.net and the first ever .NET powered blog platform.|
 
 ### [Experience](#experience)
-* **Technology Advisor - iValt** (2023 - Present)
-* **Technology Advisor - QuSecure** (2022 - Present)
-* **President / CTO - Translational Analytics & Statistics** (2022 - Present)
-* **Principal Software Engineering Leader - Microsoft Corporation** (2010 -  2022)
+* Technology Advisor - iValt (2023 - Present)
+* Technology Advisor - QuSecure (2022 - Present)
+* President / CTO - Translational Analytics & Statistics (2022 - Present)
+* Principal Software Engineering Leader - Microsoft Corporation (2010 -  2022)
 
 ### [Education](#education)
-* Executive Master of Business Administration (2021)
-* Bachelor of Business Administration, Management Information Systems (1998)
+* EMBA, Executive Master of Business Administration (2021)
+* BBA, Bachelor of Business Administration, Management Information Systems (1998)
 
 
 
