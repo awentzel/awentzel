@@ -4,6 +4,17 @@ Demonstrable experience executing enterprise-ready strategic web technology inve
 
 _Currently applying Artificial Intelligence, AI Process Automation, AI Driven DevSecOps, Predictive Analytics, Agentic Workflows, and RAG (Retrieval-Augmented Generation) applied in Mobile Healthcare Services._
 
+### [Experience](#experience)
+* Technology Advisor - iValt (2023 - Present)
+* Technology Advisor - QuSecure (2022 - Present)
+* President / CTO - Translational Analytics & Statistics (2022 - Present)
+* Principal Software Engineering Leader - Microsoft Corporation (2010 -  2022)
+
+### [Education](#education)
+* Executive MBA, Executive Master of Business Administration (2021)
+* Advisory Board Member, Management, Information Systems, and Entrepreneurship, Washington State University (2018)
+* BBA, Bachelor of Business Administration, Management Information Systems (1998)
+
 ### [Key Achievements](#key-achievements)
 
 | Date | Description |
@@ -22,16 +33,6 @@ _Currently applying Artificial Intelligence, AI Process Automation, AI Driven De
 |2003 | .NET Developer at Solucient, developing asynchronous windows smart-client used to compose, update, and assign messages to parties triggered by electronic submission of inpatient discharge records to a common data warehouse, then sold as a subscription to medical industry.|
 |2001 | Contracted by Microsoft, leading Developer Operations for pre-release of .NET, Web Development on www.gotdotnet.com, beta.visualstudio.net and the first ever .NET powered blog platform.|
 
-### [Experience](#experience)
-* Technology Advisor - iValt (2023 - Present)
-* Technology Advisor - QuSecure (2022 - Present)
-* President / CTO - Translational Analytics & Statistics (2022 - Present)
-* Principal Software Engineering Leader - Microsoft Corporation (2010 -  2022)
-
-### [Education](#education)
-* Executive MBA, Executive Master of Business Administration (2021)
-* Advisory Board Member, Management, Information Systems, and Entrepreneurship, Washington State University (2018)
-* BBA, Bachelor of Business Administration, Management Information Systems (1998)
 
 
 
