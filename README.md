@@ -1,6 +1,6 @@
 ## Portfolio
 
-Over 25 years of leadership experience executing enterprise ready web initiatives. Established history mentoring, coaching, and nurturing high-performance cultures. Adept at leveraging emerging technologies, fostering innovation, and guiding organizations through complex digital transformations, regulatory compliance, and operational excellence.
+Senior product and technology leadership experience executing enterprise ready strategic investments. Established history mentoring, coaching, and nurturing high-performance cultures. Adept at leveraging emerging technologies, fostering innovation, and guiding organizations through complex digital transformations, regulatory compliance, and operational excellence.
 
 _Currently applying Artificial Intelligence, AI Process Automation, AI Driven DevSecOps, Predictive Analytics, Agentic Workflows, and RAG (Retrieval-Augmented Generation) applied in Mobile Healthcare Services._
 
