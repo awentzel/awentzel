@@ -1,4 +1,4 @@
-## Senior Product and Technology Leader
+## Technology Advisor & Senior Product Leader
 
 Demonstrable experience executing enterprise-ready strategic web technology investments. Established history mentoring, coaching, and nurturing high-performance cultures. Adept at leveraging emerging technologies, automating organizations, fostering innovation, and guiding organizations through complex digital transformations, governance, and operational excellence.
 
