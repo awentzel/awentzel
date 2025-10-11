@@ -1,6 +1,6 @@
 ## Technology Advisor & Senior Product Leader
 
-Proven experience executing enterprise-ready strategic web technology investments. Established history mentoring, coaching, and nurturing high-performance cultures. Adept at leveraging emerging technologies, automating organizations, fostering innovation, and guiding organizations through complex digital transformations, governance, and operational excellence.
+Transformational senior technology strategist with proven success leading enterprise SaaS platforms, AI-driven healthcare solutions, and global engineering teams. Expertise in architecting secure, scalable, and high-performance cloud-native platforms aligned with open standards, interoperability, and ethical AI principles. Accomplished in leveraging emerging technologies, fostering innovation, and guiding organizations through complex digital transformations, regulatory compliance, and operational excellence.
 
 _Currently applying Artificial Intelligence, AI Process Automation, AI Driven DevSecOps, Predictive Analytics, Agentic Workflows, and RAG (Retrieval-Augmented Generation) applied in Mobile Healthcare Services._
 
