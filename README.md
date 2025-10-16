@@ -32,8 +32,7 @@ Scale-up SaaS company needed to transform legacy clinical platform into enterpri
 - Managed $1M annual technology budget with 30% efficiency optimization
 - Led P&L operations in CFO absence, demonstrating financial acumen
 
-#### Technical Architecture
-**Cloud-Native AI Platform Stack:**
+#### Technical Architecture (Cloud-Native AI Platform Stack)
 - AWS microservices architecture (ECS, Lambda, API Gateway)
 - AI/ML pipeline integration (Bedrock, Sagemaker)
 - Post-quantum cryptography security layer (QuProtect)
@@ -65,13 +64,13 @@ Fragmented design-to-development workflows creating bottlenecks, code regression
 
 #### Implementation Framework
 Design-to-Code AI Automation within PLM on engineering grade AI-enabled systems
-
 Figma → GitHub → AWS → Customer
 
 - Figma Code Connect integration
 - Automated component generation
 - CI/CD pipeline integration
 - Quality assurance automation
+- Customer engagement and success
 
 ---
 
@@ -96,8 +95,7 @@ Unlock new market opportunities requiring SOC2 Type II, HIPAA, COBIT, and WCAG 2
 - Led C-suite quarterly business reviews demonstrating strategic communication
 - Aligned product, engineering, and go-to-market strategies
 
-#### Compliance Framework
-**Enterprise Governance Stack:**
+#### Compliance Framework (Enterprise Governance Stack)
 - **Security**: SOC2 Type II, HIPAA, post-quantum cryptography
 - **Accessibility**: WCAG 2.1 AA, Section 508, ADA
 - **Operations**: COBIT framework, ISO standards alignment, ACHC Accreditation
@@ -116,10 +114,10 @@ Accelerate development velocity across Microsoft's 300M+ user ecosystem while ma
 - Drove adoption across Microsoft Teams, Edge, Office, News
 
 #### Platform Impact
-- **320M daily active users** across Microsoft ecosystem
-- **10.4k repositories** using framework
-- **100,000+ pages** powered by technology
-- **Best-in-class runtime performance** enabling competitive differentiation
+- 320M daily active users across Microsoft ecosystem
+- 10.4k repositories using framework
+- 100,000+ pages powered by technology
+- Best-in-class runtime performance enabling competitive differentiation
 
 #### Standards Leadership
 - W3C Working Group Member (WebAssembly, MiniApps)
@@ -149,18 +147,18 @@ Enhance Microsoft's web presence in 194 global markets with 100% accessibility c
 - **Brand dilution**: Inconsistent design language across products and marketing sites
 
 #### Strategic Approach
-**Foundation & Partnership**
+##### Foundation & Partnership
 - Partnered with Microsoft Marketing and Legal teams to establish compliance requirements
 - Defined accessibility standards (WCAG 2.1 AA) as non-negotiable baseline
 - Created cross-functional working group spanning engineering, design, legal, and marketing
 - Established governance model for component approval and deployment
-**Architecture & Development**
+##### Architecture & Development
 - Build accessiblity-first component system for framework-agnostic implementation
 - Defined the accessibility stack for automated testing
 - Implemented accessibility with comprehensive expert testing
 - Created localization infrastructure supporting 194 markets
 - Developed performance optimization strategies for global CDN distribution
-**Scale & Adoption**
+##### Scale & Adoption
 - Rolled out across Microsoft Stores, Marketing sites, Edge, Office, and Teams
 - Trained 500+ developers across Microsoft on framework usage
 - Established component contribution process for continuous improvement
