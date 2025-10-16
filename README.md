@@ -2,7 +2,9 @@
 
 Fortune 100 technology executive with 20+ years leading cross-functional global teams across product lifecycle management at Microsoft and high-growth SaaS companies. Scaled enterprise platforms from $1M to $4M ARR (300% growth) with deep technical credibility in enterprise-readiness, operational excellence, W3C standards leadership and open-source contributions serving 300M+ monthly active users. Skilled in leading the architecture of secure, scalable, and high-performance cloud-native AI Platforms aligned with open standards and interoperability. Proven experience with P&L management, 1M+ budgets, financial discipline, and integrity delivering measurable business results.
 
-_Currently applying Artificial Intelligence, AI Process Automation, AI Driven DevSecOps, Predictive Analytics, Agentic Workflows, and RAG (Retrieval-Augmented Generation) applied in Mobile Healthcare Services._
+**_Currently applying Artificial Intelligence, AI Process Automation, AI Driven DevSecOps, Predictive Analytics, Agentic Workflows, and RAG (Retrieval-Augmented Generation) applied in Mobile Healthcare Practice Management Services._**
+
+
 
 ### [Experience](#experience)
 * Technology Advisor - iValt (2023 - Present)
@@ -17,39 +19,6 @@ _Currently applying Artificial Intelligence, AI Process Automation, AI Driven De
 * Advisory Board Member, Management, Information Systems, and Entrepreneurship, Washington State University (2018)
 * BBA, Bachelor of Business Administration, Management Information Systems (1998)
 
-### [Web Standards & Accessibility Leadership](#web-standards--accessibility-leadership)
-
-* Founded the Microsoft Web Community and grew to ~5,000 employees, sponsorship funded with monthly internal and external speakers managed by a group of revolving volunteers and project coordinators.
-* Led implementation of WCAG 2.1 AA / GDPR compliance across thousands of Microsoft marketing websites achieving 100% accessibility audit score and reducing regulatory and legal risk.
-* Championed Web Components adoption through Microsoft FAST Open-Source project, establishing industry best practices through browser Web Platform APIs adopted by 320M+ daily active users.
-* Contributor to W3C standards including WASM and MiniApps specifications, collaborating with Google, Apple, Mozilla, Huawei, and Qualcomm.
-
-### [Core Competencies](#core-competencies)
-
-AI Leadership | Enterprise Readiness | Cloud Infrastructure | Product Lifecyle Management | Change Management | Operations Excellence | Customer Success | UI/UX Design | Standards Compliance
-
-#### Product Management & Strategy
-Product Roadmap Development & Execution, Product Lifecyle Management (PLM), SDLC/Agile/Scrum/Kanban Methodologies, User Experience (UX), User Interface (UI) Design Principles, Product Analytics & Data-Driven Decision Making, Go-to-Market (GTM) Strategy
-
-#### Technology & Engineering Leadership
-**Architecture & Infrastructure**: Cloud Platforms (AWS, Azure), Microservices, API Design
-**Software Development**: Full-Stack development understanding, CI/CD pipelines, DevSecOps & DevOps practices
-**Programming Languages**: TypeScript, JavaScript, Node, Python, Bash, .NET/C#, PWAs
-**Databases**: SQL, NOSQL, Data Warehousing, RESTful APIs, GraphQL
-**Security Compliance**: Cybersecurity frameworks, SOC2, GDPR, HIPAA, ACHC, ISO standards
-**Accessibility Compliance**: WCAG 2.1 AA, WCAG 2.2 AA, Section 508, ADA
-
-#### AI & Emerging Tech
-Artificial Intelligence/Machine Learning, Retrieval Augmented Generation (RAG), Natural Language Processing (NLP), Data Science & Analytics Platforms, Blockchain/Web3 
-
-#### AI Frameworks, Development Platforms & Tools
-**LLMs**: Copilot w/Orchestration (Microsoft/GitHub), ChatGPT (OpenAI), Claude Sonnet (Anthropic), Llama (Meta)
-**Platforms**: N8N Automation, AWS (Sagemaker, Bedrock)
-**Tools**: Figma AI, Figma Make, Figma Websites, VS Code, Cursor
-**Connectors**: Figma Code Connect, Figma MCP, Sentry MCP, GitHub MCP, Playwright MCP
-P**roduct Management**: Azure DevOps, GitHub Enterprise, Figma, Adobe, Google Analytics, Microsoft Clarity, Sentry
-**Development & Collaboration**: GitHub, Jenkins, Circle CI, Docker, Microsoft Teams, Discord, Slack
-**Business & Analytics**: Power BI, CRM Systems (Salesforce), ERP Systems (NetSuite)
 ### [Key Projects](#key-projects)
 
 | Date | Description |
@@ -67,7 +36,3 @@ P**roduct Management**: Azure DevOps, GitHub Enterprise, Figma, Adobe, Google An
 |2005 | .NET Developer on [Seattle International Film Festival](https://www.siff.net) building a .NET online ticketing back-office system to process tickets via Kiosk, Web, and box office. Including the designing of tickets and streaming data with FGL (Friendly Ghost Language) to Boca printers for the styling of tickets.|
 |2003 | .NET Developer at Solucient, developing asynchronous windows smart-client used to compose, update, and assign messages to parties triggered by electronic submission of inpatient discharge records to a common data warehouse, then sold as a subscription to medical industry.|
 |2001 | Contracted by Microsoft, leading Developer Operations for pre-release of .NET, Web Development on www.gotdotnet.com, beta.visualstudio.net and the first ever .NET powered blog platform.|
-
-
-
-
