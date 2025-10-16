@@ -17,7 +17,7 @@ _Currently applying Artificial Intelligence, AI Process Automation, AI Driven De
 * Advisory Board Member, Management, Information Systems, and Entrepreneurship, Washington State University (2018)
 * BBA, Bachelor of Business Administration, Management Information Systems (1998)
 
-### [WEB STANDARDS & ACCESSIBILITY LEADERSHIP](#web-standards--accessibility-leadership)
+### [Web Standards & Accessibility Leadership](#web-standards--accessibility-leadership)
 
 * Founded the Microsoft Web Community and grew to ~5,000 employees, sponsorship funded with monthly internal and external speakers managed by a group of revolving volunteers and project coordinators.
 * Led implementation of WCAG 2.1 AA / GDPR compliance across thousands of Microsoft marketing websites achieving 100% accessibility audit score and reducing regulatory and legal risk.
@@ -25,6 +25,9 @@ _Currently applying Artificial Intelligence, AI Process Automation, AI Driven De
 * Contributor to W3C standards including WASM and MiniApps specifications, collaborating with Google, Apple, Mozilla, Huawei, and Qualcomm.
 
 ### [Core Competencies](#core-competencies)
+
+AI Leadership | Enterprise Readiness | Cloud Infrastructure | Product Lifecyle Management | Change Management | Operations Excellence | Customer Success | UI/UX Design | Standards Compliance
+
 #### Product Management & Strategy
 Product Roadmap Development & Execution, Product Lifecyle Management (PLM), SDLC/Agile/Scrum/Kanban Methodologies, User Experience (UX), User Interface (UI) Design Principles, Product Analytics & Data-Driven Decision Making, Go-to-Market (GTM) Strategy
 
