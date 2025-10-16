@@ -172,7 +172,6 @@ Enhance Microsoft's web presence in 194 global markets with 100% accessibility c
   - intersection observer for viewport visibility
   - Minimual DOM manipulation
 
----
 
 ### [Key Projects](#key-projects)
 
