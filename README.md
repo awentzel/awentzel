@@ -1,4 +1,4 @@
-## ARON WENTZEL
+## AARON WENTZEL
 ### Chief Technology & Product Officer | AI Platform & Enterprise SaaS Leader
 
 ---
