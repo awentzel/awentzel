@@ -5,8 +5,6 @@ Technology executive with proven ability to scale enterprise platforms from $1M 
 
 **Core Value Proposition**: Bridging technical excellence with business strategy to deliver enterprise-grade AI platforms that drive revenue growth, operational efficiency, and competitive differentiation.
 
----
-
 ## STRATEGIC CASE STUDIES
 
 ### Case Study 1: Enterprise AI Platform Transformation
@@ -163,9 +161,7 @@ Enhance Microsoft's web presence in 194 global markets with 100% accessibility c
   - intersection observer for viewport visibility
   - Minimual DOM manipulation
 
----
-
-## [Key Projects](#key-projects)
+## KEY PROJECTS
 
 | Date | Description |
 | :--- | :---        |
