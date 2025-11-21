@@ -36,8 +36,6 @@ Scale-up SaaS company needed to transform legacy clinical mobile healthcare serv
 - Automated security scanning and observability (Sentry, CloudWatch)
 - Real-time data processing serving 200,000+ data points across 300,000+ treatments
 
----
-
 ### Case Study 2: Design System & Operational Excellence
 
 #### Challenge
@@ -69,8 +67,6 @@ Figma → GitHub → AWS → Customer
 - Quality assurance automation
 - Customer engagement and success
 
----
-
 ### Case Study 3: Enterprise Compliance & Market Expansion
 
 #### Challenge
@@ -97,8 +93,6 @@ Unlock new market opportunities requiring SOC2 Type II, HIPAA, COBIT, and WCAG 2
 - **Accessibility**: WCAG 2.1 AA, Section 508, ADA
 - **Operations**: COBIT framework, ISO standards alignment, ACHC Accreditation
 - **Privacy**: GDPR compliance, data governance policies
-
----
 
 ### Case Study 4: Microsoft: Platform-Scale Innovation
 
@@ -128,8 +122,6 @@ Accelerate development velocity across Microsoft's 300M+ user ecosystem while ma
 - Performance-optimized rendering
 - Framework-agnostic implementation
 - Type-safe
-
----
 
 ### Case Study 5: Microsoft Web Framework (Fluent UI Web Components)
 
@@ -171,8 +163,9 @@ Enhance Microsoft's web presence in 194 global markets with 100% accessibility c
   - intersection observer for viewport visibility
   - Minimual DOM manipulation
 
+---
 
-### [Key Projects](#key-projects)
+## [Key Projects](#key-projects)
 
 | Date | Description |
 | :--- | :---        |
