@@ -1,5 +1,5 @@
-## AARON WENTZEL
-### Chief Technology & Product Officer | AI Platform | Enterprise SaaS Leader
+## CHIEF TECHNOLOGY & PRODUCT OFFICER
+### AI Platform & Enterprise SaaS Leader
 
 Technology executive with proven ability to scale enterprise platforms from $1M to $4M ARR while leading digital transformation across fortune 100 product, engineering, and operations. Track record of building high-performing global teams, driving AI-powered innovation, and delivering measurable business outcomes through strategic technology leadership.
 
