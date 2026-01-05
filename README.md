@@ -1,4 +1,5 @@
-## CHIEF TECHNOLOGY & PRODUCT OFFICER
+## ENTERPRISE WEB PLATFORM LEADER | PRODUCT & ENGINEERING EXECUTIVE
+
 ### AI Platform & Enterprise SaaS Leader
 
 Microsoft Alumni and senior executive with 20+ years of industry recognized experience in creative and technical leadership from concept to market-leading enterprise web experiences and enterprise-scale web platforms. An AI-first mindset, contributor to web standards, and open-source developer experiences. Advocate for enabling people, optimizing processes, and architecting enterprise-ready SaaS to delivery best-in-class customer experiences on cloud-native platforms.
