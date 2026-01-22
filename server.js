@@ -11,8 +11,8 @@ const PORT = process.env.PORT || 3000;
 const API_KEY = process.env.WU_API_KEY || 'ef51e1a0a0d8449091e1a0a0d8d490c1';
 const STATION_ID = process.env.WU_STATION_ID || 'KAZTUCSO3584';
 
-// Serve static files
-app.use(express.static(__dirname));
+// Serve static files from public directory only
+app.use(express.static(path.join(__dirname, 'public')));
 
 // API proxy endpoint to avoid CORS issues
 app.get('/api/weather', (req, res) => {
@@ -66,7 +66,7 @@ app.get('/api/weather', (req, res) => {
 
 // Serve the main page
 app.get('/', (req, res) => {
-    res.sendFile(path.join(__dirname, 'index.html'));
+    res.sendFile(path.join(__dirname, 'public', 'index.html'));
 });
 
 app.listen(PORT, () => {
