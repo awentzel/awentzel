@@ -58,6 +58,7 @@ WU_STATION_ID=your-station-id
 ## Architecture
 
 The application uses a simple proxy server to avoid CORS issues:
-1. Frontend (`index.html`) makes requests to `/api/weather`
+1. Frontend (`public/index.html`) makes requests to `/api/weather`
 2. Backend server (`server.js`) proxies requests to Weather Underground API
 3. Weather data is returned in JSON format and displayed in the UI
+4. Static files are served only from the `public` directory for security
