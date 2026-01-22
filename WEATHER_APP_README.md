@@ -34,7 +34,17 @@ The application will be available at `http://localhost:3000`
 
 ## Configuration
 
-The weather station configuration is set in `server.js`:
+The weather station configuration can be set via environment variables or defaults to the provided values in `server.js`:
+
+### Using Environment Variables (Recommended for Production)
+
+Create a `.env` file (see `.env.example`):
+```bash
+WU_API_KEY=your-api-key
+WU_STATION_ID=your-station-id
+```
+
+### Default Configuration (Development)
 - Station ID: KAZTUCSO3584
 - Location: 32.23°N, 110.76°W
 - API Key: Configured in server.js

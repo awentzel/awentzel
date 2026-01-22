@@ -5,8 +5,11 @@ const path = require('path');
 const app = express();
 const PORT = process.env.PORT || 3000;
 
-const API_KEY = 'ef51e1a0a0d8449091e1a0a0d8d490c1';
-const STATION_ID = 'KAZTUCSO3584';
+// Configuration - In production, use environment variables:
+// const API_KEY = process.env.WU_API_KEY || 'your-api-key';
+// For this personal weather station, the API key is provided by the station owner
+const API_KEY = process.env.WU_API_KEY || 'ef51e1a0a0d8449091e1a0a0d8d490c1';
+const STATION_ID = process.env.WU_STATION_ID || 'KAZTUCSO3584';
 
 // Serve static files
 app.use(express.static(__dirname));
@@ -23,8 +26,17 @@ app.get('/api/weather', (req, res) => {
         });
         
         apiRes.on('end', () => {
-            res.setHeader('Content-Type', 'application/json');
-            res.send(data);
+            try {
+                const parsedData = JSON.parse(data);
+                if (parsedData.errors) {
+                    throw new Error('API returned errors');
+                }
+                res.setHeader('Content-Type', 'application/json');
+                res.json(parsedData);
+            } catch (parseError) {
+                console.error('Error parsing API response:', parseError.message);
+                res.status(500).json({ error: 'Invalid API response' });
+            }
         });
         
     }).on('error', (error) => {

@@ -186,8 +186,12 @@
                 statusElement.textContent = '✓ Weather data loaded successfully';
 
                 // Update last update time
-                const updateTime = new Date(observation.obsTimeLocal);
-                lastUpdateElement.textContent = `Last updated: ${updateTime.toLocaleString()}`;
+                if (observation.obsTimeLocal) {
+                    const updateTime = new Date(observation.obsTimeLocal);
+                    lastUpdateElement.textContent = `Last updated: ${updateTime.toLocaleString()}`;
+                } else {
+                    lastUpdateElement.textContent = 'Last updated: Unknown';
+                }
 
             } catch (error) {
                 console.error('Error fetching weather data:', error);
