@@ -18,19 +18,60 @@ A single-page web application that displays real-time weather data from Weather 
 
 ## Installation
 
+### Prerequisites
+
+You need to have Node.js installed on your system. Download it from [nodejs.org](https://nodejs.org/) (LTS version recommended).
+
+### Windows Installation
+
+1. **Install Node.js (if not already installed)**
+   - Download the Windows installer from [https://nodejs.org/](https://nodejs.org/)
+   - Run the installer (.msi file)
+   - Follow the installation wizard (keep default settings)
+   - Verify installation by opening Command Prompt or PowerShell and running:
+     ```cmd
+     node --version
+     npm --version
+     ```
+
+2. **Download or Clone the Repository**
+   - Using Git (if installed):
+     ```cmd
+     git clone https://github.com/awentzel/awentzel.git
+     cd awentzel
+     ```
+   - Or download and extract the ZIP file from GitHub
+
+3. **Install Dependencies**
+   - Open Command Prompt or PowerShell in the project directory
+   - Run:
+     ```cmd
+     npm install
+     ```
+
+4. **Run the Application**
+   - Start the server:
+     ```cmd
+     npm start
+     ```
+   - Open your web browser and navigate to: `http://localhost:3000`
+
+5. **Stop the Server**
+   - Press `Ctrl+C` in the Command Prompt/PowerShell window
+
+### macOS/Linux Installation
+
 1. Install Node.js dependencies:
 ```bash
 npm install
 ```
 
-## Running the Application
-
-Start the server:
+2. Start the server:
 ```bash
 npm start
 ```
 
-The application will be available at `http://localhost:3000`
+3. Open your browser to: `http://localhost:3000`
 
 ## Configuration
 
