@@ -1,0 +1,15 @@
+{
+  "name": "weather-underground-pws-app",
+  "version": "1.0.0",
+  "description": "Single page web app for Weather Underground PWS data",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": ["weather", "pws", "weather-underground"],
+  "author": "awentzel",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}

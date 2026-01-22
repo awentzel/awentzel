@@ -1,0 +1,252 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Weather Underground PWS - KAZTUCSO3584</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            padding: 20px;
+        }
+
+        .container {
+            background: rgba(255, 255, 255, 0.95);
+            border-radius: 20px;
+            padding: 40px;
+            max-width: 800px;
+            width: 100%;
+            box-shadow: 0 20px 60px rgba(0, 0, 0, 0.3);
+        }
+
+        h1 {
+            color: #333;
+            margin-bottom: 10px;
+            text-align: center;
+            font-size: 28px;
+        }
+
+        .station-info {
+            text-align: center;
+            color: #666;
+            margin-bottom: 30px;
+            font-size: 14px;
+        }
+
+        .status {
+            text-align: center;
+            padding: 15px;
+            border-radius: 10px;
+            margin-bottom: 20px;
+            font-weight: 500;
+        }
+
+        .status.loading {
+            background-color: #fff3cd;
+            color: #856404;
+        }
+
+        .status.success {
+            background-color: #d4edda;
+            color: #155724;
+        }
+
+        .status.error {
+            background-color: #f8d7da;
+            color: #721c24;
+        }
+
+        .weather-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 20px;
+            margin-bottom: 20px;
+        }
+
+        .weather-card {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            padding: 25px;
+            border-radius: 15px;
+            box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
+            transition: transform 0.3s ease;
+        }
+
+        .weather-card:hover {
+            transform: translateY(-5px);
+        }
+
+        .weather-card h3 {
+            font-size: 14px;
+            font-weight: 500;
+            opacity: 0.9;
+            margin-bottom: 10px;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+        }
+
+        .weather-card .value {
+            font-size: 32px;
+            font-weight: 700;
+            margin-bottom: 5px;
+        }
+
+        .weather-card .unit {
+            font-size: 16px;
+            opacity: 0.8;
+        }
+
+        .last-update {
+            text-align: center;
+            color: #666;
+            font-size: 14px;
+            margin-top: 20px;
+        }
+
+        .refresh-info {
+            text-align: center;
+            color: #666;
+            font-size: 12px;
+            margin-top: 10px;
+            font-style: italic;
+        }
+
+        @media (max-width: 600px) {
+            .container {
+                padding: 20px;
+            }
+
+            h1 {
+                font-size: 24px;
+            }
+
+            .weather-grid {
+                grid-template-columns: 1fr;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>🌤️ Weather Station Dashboard</h1>
+        <div class="station-info">
+            Station ID: KAZTUCSO3584 | Location: 32.23°N, 110.76°W
+        </div>
+
+        <div id="status" class="status loading">
+            Loading weather data...
+        </div>
+
+        <div class="weather-grid" id="weatherGrid"></div>
+
+        <div class="last-update" id="lastUpdate"></div>
+        <div class="refresh-info">Auto-refresh every 4 minutes</div>
+    </div>
+
+    <script>
+        const API_URL = '/api/weather';
+        const REFRESH_INTERVAL = 4 * 60 * 1000; // 4 minutes in milliseconds
+
+        async function fetchWeatherData() {
+            const statusElement = document.getElementById('status');
+            const weatherGrid = document.getElementById('weatherGrid');
+            const lastUpdateElement = document.getElementById('lastUpdate');
+
+            try {
+                statusElement.className = 'status loading';
+                statusElement.textContent = 'Fetching weather data...';
+
+                const response = await fetch(API_URL);
+                
+                if (!response.ok) {
+                    throw new Error(`HTTP error! status: ${response.status}`);
+                }
+
+                const data = await response.json();
+                
+                if (!data.observations || data.observations.length === 0) {
+                    throw new Error('No observations available');
+                }
+
+                const observation = data.observations[0];
+                displayWeatherData(observation);
+
+                statusElement.className = 'status success';
+                statusElement.textContent = '✓ Weather data loaded successfully';
+
+                // Update last update time
+                const updateTime = new Date(observation.obsTimeLocal);
+                lastUpdateElement.textContent = `Last updated: ${updateTime.toLocaleString()}`;
+
+            } catch (error) {
+                console.error('Error fetching weather data:', error);
+                statusElement.className = 'status error';
+                statusElement.textContent = `Error: ${error.message}`;
+                weatherGrid.innerHTML = '<div style="text-align: center; color: #721c24; grid-column: 1 / -1;">Unable to load weather data. Please try again later.</div>';
+            }
+        }
+
+        function displayWeatherData(observation) {
+            const weatherGrid = document.getElementById('weatherGrid');
+            
+            const weatherData = [
+                {
+                    label: 'Temperature',
+                    value: observation.metric?.temp ?? 'N/A',
+                    unit: '°C'
+                },
+                {
+                    label: 'Humidity',
+                    value: observation.humidity ?? 'N/A',
+                    unit: '%'
+                },
+                {
+                    label: 'Dew Point',
+                    value: observation.metric?.dewpt ?? 'N/A',
+                    unit: '°C'
+                },
+                {
+                    label: 'Pressure',
+                    value: observation.metric?.pressure ?? 'N/A',
+                    unit: 'mb'
+                },
+                {
+                    label: 'Elevation',
+                    value: observation.metric?.elev ?? 'N/A',
+                    unit: 'm'
+                },
+                {
+                    label: 'Update Frequency',
+                    value: observation.realtimeFrequency ?? 'N/A',
+                    unit: ''
+                }
+            ];
+
+            weatherGrid.innerHTML = weatherData.map(item => `
+                <div class="weather-card">
+                    <h3>${item.label}</h3>
+                    <div class="value">${item.value}</div>
+                    <div class="unit">${item.unit}</div>
+                </div>
+            `).join('');
+        }
+
+        // Initial fetch
+        fetchWeatherData();
+
+        // Set up auto-refresh every 4 minutes
+        setInterval(fetchWeatherData, REFRESH_INTERVAL);
+    </script>
+</body>
+</html>
