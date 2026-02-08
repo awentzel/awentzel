@@ -9,7 +9,7 @@ Microsoft Alumni and senior executive with 20+ years of industry recognized expe
 ---
 
 ### Recent Achievements
-* Conceived and championed a best-in-class Figma enterprise design system, prototyping platform, and design-to-code workflows—driving creative innovation and delightful customer experiences that reduced design-to-development, accelerated delivery 24x, while saving $2M annually in design headcount.
+* Conceived and championed a best-in-class Figma enterprise design system, prototyping platform, and design-to-code workflows — driving creative innovation and delightful customer experiences that reduced design-to-development, accelerated delivery 24x, while saving $2M annually in design headcount.
 
 * Established a powerful GitHub Enterprise engineering system that fully leverages Copilot, Spaces, Agents and integrates with Figma design system to build full-stack implementations meeting design integrity, amplifing engineering velocity by 10x, and increasing enterprise-grade quality.
 
