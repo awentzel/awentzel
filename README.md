@@ -1,4 +1,4 @@
-## ENTERPRISE WEB PLATFORM LEADER | PRODUCT & ENGINEERING EXECUTIVE
+## PRODUCT DESIGN & ENGINEERING EXECUTIVE
 
 ### AI Platforms, Enterprise Web Platforms, Enterprise Web Experiences Leader
 
