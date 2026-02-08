@@ -11,7 +11,7 @@ Establishing strategic initiatives to create competitive advantages and differen
 ### Recent Achievements
 * Conceived and championed a best-in-class Figma enterprise design system, prototyping platform, and design-to-code workflows — driving creative innovation and delightful customer experiences that reduced design-to-development, accelerated delivery 24x, while saving $2M annually in design headcount.
 
-* Established a powerful GitHub Enterprise engineering system that fully leverages Copilot, Spaces, Agents and integrates with Figma design system to build full-stack implementations meeting design integrity, amplifing engineering velocity by 10x, and increasing enterprise-grade quality.
+* Established a powerful GitHub Enterprise engineering system that fully leverages Copilot, Spaces, Agents and integrates with Figma design system to build full-stack implementations meeting design integrity, amplifying engineering velocity by 10x, and increasing enterprise-grade quality.
 
 * Co-Founded [Microsoft FAST](https://www.github.com/microsoft/fast), zero-framework front-end architecture & adaptable design system, to accelerate front-end design engineering across Web Experiences organiztions fundamentally transforming how Microsoft builds accessible, performant, and standards-compliant web experiences across its entire product portfolio and used by 320M+ DAUs.
 
