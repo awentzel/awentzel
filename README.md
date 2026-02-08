@@ -4,6 +4,10 @@
 
 Microsoft Alumni and senior executive with 20+ years of industry recognized experience in creative and technical leadership from concept to market-leading enterprise web experiences and enterprise-scale web platforms. An AI-first mindset, contributor to web standards, and open-source developer experiences. Proven success enabling people, optimizing processes, and architecting enterprise-ready SaaS to delivery best-in-class customer experiences on cloud-native platforms.
 
+**Bringing business strategy and execution together to increase enterprise value with competative advantages and competitive differentiators.**
+
+---
+
 ### Recent Achievements
 * Conceived and championed a best-in-class Figma enterprise design system, prototyping platform, and design-to-code workflows—driving creative innovation and delightful customer experiences that reduced design-to-development, accelerated delivery 24x, while saving $2M annually in design headcount.
 
@@ -23,5 +27,3 @@ Microsoft Alumni and senior executive with 20+ years of industry recognized expe
 * Led implementation of WCAG 2.1 AA / GDPR compliance across thousands of Microsoft marketing websites achieving 100% accessibility compliance and reducing regulatory and legal risk.
 
 * World Wide Web Consortium, W3C Working Group Participant, WebAssembly & MiniApps, 2018 – 2022
-
-**Core Value Proposition**: Bridging technical excellence with business strategy to deliver enterprise-grade AI platforms and corporate cultures that drive revenue growth, operational efficiency, and competitive differentiation.
