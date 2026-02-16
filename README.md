@@ -13,7 +13,7 @@ Establishing strategic initiatives to create competitive advantages and differen
 
 * Established on GitHub, an enterprise engineering system that fully leverages Copilot, Spaces, Agents and integrates with Figma design system to build full-stack implementations meeting design integrity, amplifying engineering velocity by 10x, and increasing enterprise-grade quality.
 
-* Co-Founded [Microsoft FAST](https://www.github.com/microsoft/fast), zero-framework front-end architecture & adaptable design system, to accelerate front-end design engineering across Web Experiences organiztions fundamentally transforming how Microsoft builds accessible, performant, and standards-compliant web experiences across its entire product portfolio and used by 320M+ DAUs.
+* Co-Founded [Microsoft FAST](https://www.github.com/microsoft/fast), zero-framework front-end architecture & adaptable design system, to accelerate front-end design engineering across Web Experiences organizations fundamentally transforming how Microsoft builds accessible, performant, and standards-compliant web experiences across its entire product portfolio and used by 320M+ DAUs.
 
 * Co-Founded the Microsoft Web Framework (MWF), initially for Microsoft Universal Storefronts, the first official web frameworks built from the ground up to meet WCAG 2.1 AA standards in partnership with legal and industry accessibility experts across Microsoft. MWF experienced rapid adoption Microsoft Web Experience organizations has evolved into [Fluent UI](https://github.com/microsoft/fluentui).
 
