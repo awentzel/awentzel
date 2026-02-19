@@ -2,7 +2,7 @@
 
 ### AI Platforms, Enterprise Web Platforms, Enterprise Web Experiences Leader
 
-Microsoft Alumni and senior executive with 20+ years of industry recognized experience in creative and technical leadership from concept to market-leading enterprise web experiences and enterprise-scale web platforms. An AI-first mindset, contributor to web standards, and open-source developer experiences. 
+Microsoft Alumni and senior executive with 20+ years of industry experience in creative and technical leadership from concept to market-leading enterprise web experiences and enterprise-scale web platforms. An AI-first mindset, contributor to web standards, and open-source developer experiences. 
 
 Establishing strategic initiatives to create competitive advantages and differentiators that increase enterprise value.
 
