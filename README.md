@@ -1,4 +1,4 @@
-## ENTERPRISE TECHNOLOGY AND BUSINESS EXECUTIVE
+## ENTERPRISE BUSINESS AND TECHNOLOGY EXECUTIVE
 
 ### AI Platforms, Enterprise Web Platforms, Enterprise Web Experiences Leader
 
