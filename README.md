@@ -13,7 +13,7 @@ Establishing strategic initiatives to create competitive advantages and differen
 
 * Rebuilt an early-stage healthcare company into a SaaS AI platform, leveraging modern and emerging technologies, establishing the cloud resiliency with 99.9% uptime, secure-by-default delivery rhythms, and SOC 2 / HIPAA postures necessary to unlock the company's first enterprise sales pipeline.
 
-* Built the regulated industry governance, security, and delivery operating model for a healthcare platform from the ground up — establishing intake, compliance, and delivery cadence that achieved SOC 2 Type II, HIPAA, COBIT, and WCAG 2.2 AA compliance within 12 months.
+* Built the regulated industry governance, security, and delivery operating model for a healthcare platform from the ground up — establishing intake, compliance, and delivery cadence that achieved SOC 2 Type II and HIPAA running on the COBIT IT framework within 12 months.
 
 * Conceived and championed a best-in-class Figma enterprise design system, prototyping platform, and design-to-code workflows — driving creative innovation and user experiences that reduced design-to-development, accelerated delivery, while saving $1M annually in design headcount.
 
