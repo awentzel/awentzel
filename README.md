@@ -2,7 +2,7 @@
 
 ### AI Platforms, Enterprise Web Platforms, Enterprise Web Experiences, Regulated Industries
 
-Microsoft Alumni and senior executive with 20+ years of industry experience in creative and technical leadership from concept to market-leading enterprise web experiences and enterprise-scale web platforms. An AI-first and Security-first mindset, contributor to web standards, and open-source developer experiences. Proven builder of AI operating models from the ground up — establishing intake, governance, and delivery processes that translate emerging AI capability into measurable business value.
+Microsoft Alumni and senior executive with 20+ years of industry experience in creative and technical leadership from concept to market-leading enterprise web experiences and enterprise-scale web platforms. An AI-native security first mindset, contributor to web standards, and open-source developer experiences. Proven builder of AI operating models from the ground up — establishing intake, governance, and delivery processes that translate emerging AI capability into measurable business value.
 
 Establishing strategic initiatives to create competitive advantages and differentiators that increase enterprise value.
 
