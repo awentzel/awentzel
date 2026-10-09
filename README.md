@@ -17,9 +17,9 @@ Establishing strategic initiatives to create competitive advantages and differen
 
 * Conceived and championed a best-in-class Figma enterprise design system, prototyping platform, and design-to-code workflows — driving creative innovation and user experiences that reduced design-to-development, accelerated delivery, while saving $1M annually in design headcount.
 
-* Established on GitHub, an enterprise engineering system that fully leverages Copilot, Spaces, Agents and integrates with Figma design system to build full-stack implementations meeting design integrity, amplifying engineering velocity by 4x, and increasing enterprise-grade quality.
+* Established on GitHub, an enterprise engineering system that fully leverages Copilot, Spaces, Agents and integrates with Figma design system to build full-stack implementations meeting design integrity, amplifying engineering velocity by 5x, and increasing enterprise-grade quality.
 
-* Co-Founded [Microsoft FAST](https://www.github.com/microsoft/fast), zero-framework front-end architecture & adaptable design system, to accelerate front-end design engineering across Web Experiences organizations fundamentally transforming how Microsoft builds accessible, performant, and standards-compliant web experiences across Microsoft Teams, Microsoft Office, and Microsoft Edge to name a few and still in production today.
+* Co-Founded [Microsoft FAST](https://www.github.com/microsoft/fast), zero-framework front-end architecture & adaptable design system, to accelerate front-end design engineering across Web Experiences organizations fundamentally transforming how Microsoft builds accessible, performant, and standards-compliant web experiences across Microsoft Teams, Microsoft Office, and Microsoft Edge totalling (400m DAUs).
 
 * Co-Founded the Microsoft Web Framework (MWF), initially for Microsoft Universal Storefronts, the first official web frameworks built from the ground up to meet WCAG 2.1 AA standards in partnership with legal and industry accessibility experts across Microsoft. MWF experienced rapid adoption Microsoft Web Experience organizations has evolved into [Fluent UI](https://github.com/microsoft/fluentui).
 
